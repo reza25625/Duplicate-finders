@@ -1,0 +1,9 @@
+=== Duplicate file reports ===
+Date time 2026-10-23 21:51
+Number of group 1
+========================================
+
+Group 1 (2 files):
+  - /home/mohamadreza/tf_env/fileManagmenet/fileManagmenet.py
+  - /home/mohamadreza/tf_env/fileManagmenet/fileManagmenet (Copy).py
+
