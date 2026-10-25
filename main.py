@@ -103,6 +103,6 @@ if dups:
 else:
     print("No duplicated found")
 
-#Save Report
+#Save Reports
 save_duplicates_report(dups)
 move_duplicates(dups)
